@@ -50,7 +50,12 @@ async function fetchAndSaveJson() {
       // Extract URL after license
       else if (currentKid && currentKey && currentTvgId && trimmed.startsWith("http")) {
         // Remove extra &xxx=... if present
-        const cleanUrl = trimmed.split("&xxx=")[0];
+        let cleanUrl = trimmed.split("&xxx=")[0];
+
+        // --- MODIFICATION START ---
+        // Replace the old domain with the new domain
+        cleanUrl = cleanUrl.replace("jiotvbpkmob.cdn.jio.com", "jiotvbpkmob.cdn.jio.com");
+        // --- MODIFICATION END ---
 
         result[currentTvgId] = {
           kid: currentKid,

@@ -35,15 +35,6 @@
     "channel_name": "Movies Now HD",
     "user_agent": null
   },
-  "155": {
-    "kid": "https",
-    "key": "//aqfadtv.xyz/clearkey/results.php?keyid",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Six_HD_BTS/output/index.mpd?__hdnea__=st=1773117492~exp=1773203892~acl=/*~hmac=8914a5d604e39fa2e3c18fbefaf5040a716ecc5e4c494fe471c98fa9228d598e",
-    "group_title": "Sports",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",
-    "channel_name": "Sony Ten 5 HD",
-    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
-  },
   "156": {
     "kid": "ec7ad3786d9e5efa9e0c4aeb3e58c7b7",
     "key": "907509ccae7e68b30ae75b5d09fe60ef",
@@ -51,15 +42,6 @@
     "group_title": "Movies",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Gold_HD.png",
     "channel_name": "Star Gold HD",
-    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
-  },
-  "162": {
-    "kid": "https",
-    "key": "//aqfadtv.xyz/clearkey/results.php?keyid",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_HD_BTS/output/index.mpd?__hdnea__=st=1773117492~exp=1773203892~acl=/*~hmac=8914a5d604e39fa2e3c18fbefaf5040a716ecc5e4c494fe471c98fa9228d598e",
-    "group_title": "Sports",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",
-    "channel_name": "Sony Ten 1 HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "164": {
@@ -870,15 +852,6 @@
     "group_title": "News",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/India_News_Rajasthan.png",
     "channel_name": "India News Rajasthan",
-    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
-  },
-  "514": {
-    "kid": "https",
-    "key": "//aqfadtv.xyz/clearkey/results.php?keyid",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_1_MOB/WDVLive/index.mpd?__hdnea__=st=1773117492~exp=1773203892~acl=/*~hmac=8914a5d604e39fa2e3c18fbefaf5040a716ecc5e4c494fe471c98fa9228d598e",
-    "group_title": "Sports",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",
-    "channel_name": "Sony Ten 1",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "515": {
@@ -1809,8 +1782,8 @@
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "676": {
-    "kid": "b9d4acedc66c5660a1e06197a55bccd2",
-    "key": "dd53bab1a42f41ae8f0a5c8fd286f456",
+    "kid": "e8b0b960d29658969d74da596e2787e1",
+    "key": "9b4051847231c9e1fd717df5aa5e0eea",
     "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Sun_News_MOB/WDVLive/index.mpd?__hdnea__=st=1773117492~exp=1773203892~acl=/*~hmac=8914a5d604e39fa2e3c18fbefaf5040a716ecc5e4c494fe471c98fa9228d598e",
     "group_title": "Tamil",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png",
@@ -3005,15 +2978,6 @@
     "channel_name": "Jio Sports HD",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
-  "891": {
-    "kid": "https",
-    "key": "//aqfadtv.xyz/clearkey/results.php?keyid",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/Ten2_HD_BTS/output/index.mpd?__hdnea__=st=1773117492~exp=1773203892~acl=/*~hmac=8914a5d604e39fa2e3c18fbefaf5040a716ecc5e4c494fe471c98fa9228d598e",
-    "group_title": "Sports",
-    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",
-    "channel_name": "Sony Ten 2 HD",
-    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
-  },
   "894": {
     "kid": "ba9bfe750a56514e9c63c456fad1e428",
     "key": "e0ca0ee9dbaac2942753d928b92824c5",
@@ -3789,8 +3753,8 @@
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "1108": {
-    "kid": "609ace1518f15ee2bcee407f5e435fed",
-    "key": "533464a6d57d3e40b61b8fa8c4fe6627",
+    "kid": "400131994b445d8c8817202248760fda",
+    "key": "2d56cb6f07a75b9aff165d534ae2bfc4",
     "url": "https://jiotvmblive.cdn.jio.com//bpk-tv/Star_Sports_HD1_Hindi_BTS/output/index.mpd?__hdnea__=st=1773117492~exp=1773203892~acl=/*~hmac=8914a5d604e39fa2e3c18fbefaf5040a716ecc5e4c494fe471c98fa9228d598e",
     "group_title": "Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png",
@@ -8333,6 +8297,15 @@
     "channel_name": "SonyLIV Sports 3",
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
+  "3397": {
+    "kid": "9f266ceda9555faf8b40c586ac40406a",
+    "key": "92f9a1ca4c16545db65ad0578bd1baa3",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_4_Tamil_MOB/WDVLive/index.mpd?__hdnea__=st=1771054562~exp=1771140962~acl=/*~hmac=665694471cff75cc5ba91b267b8057824842f5b3e8fdc7b52dee479e35a734ff",
+    "group_title": "Sports",
+    "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png",
+    "channel_name": "Sony LIV Sports 4 Tamil",
+    "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
+  },
   "3398": {
     "kid": "https",
     "key": "//aqfadtv.xyz/clearkey/results.php?keyid",
@@ -8343,9 +8316,9 @@
     "user_agent": "plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0"
   },
   "3399": {
-    "kid": "https",
-    "key": "//aqfadtv.xyz/clearkey/results.php?keyid",
-    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1773117492~exp=1773203892~acl=/*~hmac=8914a5d604e39fa2e3c18fbefaf5040a716ecc5e4c494fe471c98fa9228d598e",
+    "kid": "cee8550bf50b569d8ad2ed0c5264f0d2",
+    "key": "565a95f1c332c03534e1e5fcc1ff9a8b",
+    "url": "https://jiotvmblive.cdn.jio.com/bpk-tv/SonyLIV_Sports_5_MOB/WDVLive/index.mpd?__hdnea__=st=1771054562~exp=1771140962~acl=/*~hmac=665694471cff75cc5ba91b267b8057824842f5b3e8fdc7b52dee479e35a734ff",
     "group_title": "Sports",
     "tvg_logo": "https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_5.png",
     "channel_name": "Sony LIV Sports 5",
